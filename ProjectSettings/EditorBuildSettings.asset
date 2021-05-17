@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c6cdadb720139043b6676f06324e117
+  - enabled: 1
+    path: Assets/Scenes/MostradorModels.unity
+    guid: 6cf28b7ef3a6d2d4481a48ffed9fa005
+  - enabled: 1
+    path: Assets/Scenes/EscenaFantasma.unity
+    guid: 53ec3bc8f1d47544ba2fad5fd4a51b19
+  - enabled: 1
+    path: Assets/Scenes/EscenaBicho3.unity
+    guid: a579b4ca635495846896c8150dd929c3
+  - enabled: 1
+    path: Assets/Scenes/ShooterDracula.unity
+    guid: 4b436402d1877c34ab410c44e587a5cc
+  - enabled: 1
+    path: Assets/Scenes/ShooterFantasma.unity
+    guid: 24b54e7e5b969b94dbf09cb18f725c82
+  - enabled: 1
+    path: Assets/Scenes/ShooterManzana.unity
+    guid: 12d1ab25b2f05244a9bd79ab3f8d5032
+  - enabled: 1
+    path: Assets/Scenes/EscenaVictoria.unity
+    guid: e4a580c9255837a47964099ba228bd87
+  - enabled: 1
+    path: Assets/Scenes/EscenaMuerte.unity
+    guid: b1241c7206a64e34d97104f9b9766d0b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 057d44b417141304ca89ef2af1a53ef3,
+      type: 2}
